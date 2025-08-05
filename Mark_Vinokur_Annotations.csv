@@ -1,0 +1,321 @@
+Sample ID,Sample Name,Object ID,Sr Number,Is the post still online?,Is the post antisemitic according to IHRA-WDA,IHRA Section That Applies (check at least one),"""Antisemitism is a certain perception of Jews, which may be expressed as hatred toward Jews. Rhetorical and physical manifestations of antisemitism are directed toward Jewish or non-Jewish individuals and/or their property, toward Jewish community institutions and religious facilities.""",What content type transports the antisemitic message? (check all that apply),Is the post calling out or reporting on antisemitism?,Time Taken
+151,Antisemitism Post Annotation,1937588348480020880,1,N/A,"Probably not antisemitic, Probably antisemitic",None or n/a,N/A,"Written text, Visuals / imagery / video, Post description, hashtag, or username",no,81
+151,Antisemitism Post Annotation,1934365751302848908,2,N/A, Confident not antisemitic,None or n/a,N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,39
+151,Antisemitism Post Annotation,1937001630332850515,3,yes,Probably antisemitic,"3.1.2 Mendacious or stereotypical allegations about Jews as such + Jewish power, 3.1.10 Drawing comparisons between Israeli policy and that of the Nazis",N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,204
+151,Antisemitism Post Annotation,1935847787733889259,4,"yes, no", Confident not antisemitic,None or n/a,N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,41
+151,Antisemitism Post Annotation,1941641991982284958,5,yes,Probably not antisemitic,3.1.10 Drawing comparisons between Israeli policy and that of the Nazis,N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,27
+151,Antisemitism Post Annotation,1933668180104290734,6,"yes, no",Probably not antisemitic,"3.1.8 Applying double standards to Israel (e.g., expectations not required of other nations), 3.1.10 Drawing comparisons between Israeli policy and that of the Nazis",N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,68
+151,Antisemitism Post Annotation,1934574942445592704,7,no,Probably not antisemitic,"None or n/a, 3.1.8 Applying double standards to Israel (e.g., expectations not required of other nations)",N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,92
+151,Antisemitism Post Annotation,1935439378580463694,8,yes, Confident not antisemitic,None or n/a,N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,31
+151,Antisemitism Post Annotation,1906334666178617481,9,"yes, no",Probably not antisemitic,"3.1.7 Denying the Jewish people right to self-determination, e.g., ‘Israel is racist per se’, 3.1.10 Drawing comparisons between Israeli policy and that of the Nazis",N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,107
+151,Antisemitism Post Annotation,1732832602355126738,10,no,N/A," 3.1.3 Blaming the Jews as a people for what a single person or group has done, 3.1.10 Drawing comparisons between Israeli policy and that of the Nazis",N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,467
+151,Antisemitism Post Annotation,1935358436771758121,11,yes,Confident antisemitic,"3.1.1 Justifying harming of Jews in the name of a radical ideology, 3.1.7 Denying the Jewish people right to self-determination, e.g., ‘Israel is racist per se’, 3.1.8 Applying double standards to Israel (e.g., expectations not required of other nations), 3.1.9 Using classic antisemitic tropes (e.g., blood libel) to characterize Israel or Israelis, 3.1.10 Drawing comparisons between Israeli policy and that of the Nazis, 3.1.11 Holding Jews collectively responsible for actions of the state of Israel",N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,128
+151,Antisemitism Post Annotation,1939365093038272535,12,yes,Confident antisemitic," 3.1.3 Blaming the Jews as a people for what a single person or group has done, 3.1.7 Denying the Jewish people right to self-determination, e.g., ‘Israel is racist per se’, 3.1.8 Applying double standards to Israel (e.g., expectations not required of other nations), 3.1.9 Using classic antisemitic tropes (e.g., blood libel) to characterize Israel or Israelis, 3.1.10 Drawing comparisons between Israeli policy and that of the Nazis, 3.1.11 Holding Jews collectively responsible for actions of the state of Israel",N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,56
+151,Antisemitism Post Annotation,1936431666538418425,13,yes,Probably not antisemitic,"3.1.8 Applying double standards to Israel (e.g., expectations not required of other nations)",N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,73
+151,Antisemitism Post Annotation,1757469065243750402,14,yes, Confident not antisemitic,None or n/a,N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,23
+151,Antisemitism Post Annotation,1727755883852026204,15,yes,Probably not antisemitic,3.1.10 Drawing comparisons between Israeli policy and that of the Nazis,N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,33
+151,Antisemitism Post Annotation,1936374698662601093,16,yes, Confident not antisemitic,None or n/a,N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,50
+151,Antisemitism Post Annotation,1723077116860743882,17,yes, Confident not antisemitic,None or n/a,N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",yes,25
+151,Antisemitism Post Annotation,1725949747964395644,18,yes, Confident not antisemitic,None or n/a,N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,23
+151,Antisemitism Post Annotation,1734644627834118567,19,yes,N/A,"3.1.7 Denying the Jewish people right to self-determination, e.g., ‘Israel is racist per se’, 3.1.8 Applying double standards to Israel (e.g., expectations not required of other nations), 3.1.10 Drawing comparisons between Israeli policy and that of the Nazis, 3.1.11 Holding Jews collectively responsible for actions of the state of Israel",N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,115
+151,Antisemitism Post Annotation,1730296160114327621,20,yes,Probably not antisemitic,"3.1.7 Denying the Jewish people right to self-determination, e.g., ‘Israel is racist per se’",N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,26
+151,Antisemitism Post Annotation,1939341901901058160,21,N/A,Probably antisemitic,"1.0 Hatred towards Jews, 3.1.1 Justifying harming of Jews in the name of a radical ideology, 3.1.10 Drawing comparisons between Israeli policy and that of the Nazis",N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,46
+151,Antisemitism Post Annotation,1737182656800915965,22,"yes, no",Probably not antisemitic,3.1.10 Drawing comparisons between Israeli policy and that of the Nazis,N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,26
+151,Antisemitism Post Annotation,1746966711411081268,23,yes,Probably not antisemitic,3.1.10 Drawing comparisons between Israeli policy and that of the Nazis,N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,15
+151,Antisemitism Post Annotation,1757829158854386149,24,N/A,Confident antisemitic,"1.0 Hatred towards Jews,  3.1.3 Blaming the Jews as a people for what a single person or group has done, 3.1.7 Denying the Jewish people right to self-determination, e.g., ‘Israel is racist per se’, 3.1.8 Applying double standards to Israel (e.g., expectations not required of other nations), 3.1.11 Holding Jews collectively responsible for actions of the state of Israel",N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,52
+151,Antisemitism Post Annotation,1748051041457787194,25,yes,Probably not antisemitic,3.1.10 Drawing comparisons between Israeli policy and that of the Nazis,N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,24
+151,Antisemitism Post Annotation,1738627468691444128,26,yes,Probably antisemitic,3.1.10 Drawing comparisons between Israeli policy and that of the Nazis,N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,19
+151,Antisemitism Post Annotation,1644848344664096768,27,no,Probably not antisemitic,"3.1.8 Applying double standards to Israel (e.g., expectations not required of other nations), 3.1.11 Holding Jews collectively responsible for actions of the state of Israel",N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,27
+151,Antisemitism Post Annotation,1908838302410506395,28,no,Probably not antisemitic,"3.1.9 Using classic antisemitic tropes (e.g., blood libel) to characterize Israel or Israelis, 3.1.10 Drawing comparisons between Israeli policy and that of the Nazis, 3.1.11 Holding Jews collectively responsible for actions of the state of Israel",N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,18
+151,Antisemitism Post Annotation,1941581015224287504,29,no,Probably not antisemitic,None or n/a,N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,25
+151,Antisemitism Post Annotation,1741896362176696376,30,yes, Confident not antisemitic,"3.1.7 Denying the Jewish people right to self-determination, e.g., ‘Israel is racist per se’",N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,100
+151,Antisemitism Post Annotation,1729584968873943439,31,no,Probably not antisemitic,"3.1.9 Using classic antisemitic tropes (e.g., blood libel) to characterize Israel or Israelis",N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,43
+151,Antisemitism Post Annotation,1924769918785884258,32,no,Probably antisemitic,"3.1.7 Denying the Jewish people right to self-determination, e.g., ‘Israel is racist per se’, 3.1.10 Drawing comparisons between Israeli policy and that of the Nazis",N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,52
+151,Antisemitism Post Annotation,1937345765950763461,33,no,Probably not antisemitic,None or n/a,N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,55
+151,Antisemitism Post Annotation,1901925273651781795,34,yes,Probably not antisemitic,"3.1.8 Applying double standards to Israel (e.g., expectations not required of other nations)",N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,26
+151,Antisemitism Post Annotation,1936728057487990856,35,yes, Confident not antisemitic,"None or n/a, 3.1.8 Applying double standards to Israel (e.g., expectations not required of other nations)",N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,30
+151,Antisemitism Post Annotation,1879642650892185626,36,no,Probably antisemitic,3.1.10 Drawing comparisons between Israeli policy and that of the Nazis,N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",yes,35
+151,Antisemitism Post Annotation,1868167397997531444,37,yes,Probably not antisemitic,None or n/a,N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,20
+151,Antisemitism Post Annotation,1936702771622998497,38,yes,Probably not antisemitic,"None or n/a, 3.1.8 Applying double standards to Israel (e.g., expectations not required of other nations)",N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video",no,21
+151,Antisemitism Post Annotation,1919281860686856695,39,yes,Probably not antisemitic,"3.1.8 Applying double standards to Israel (e.g., expectations not required of other nations)",N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,17
+151,Antisemitism Post Annotation,1855097599583236306,40,yes,Probably not antisemitic,"3.1.8 Applying double standards to Israel (e.g., expectations not required of other nations)",N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,20
+151,Antisemitism Post Annotation,1865202049694228613,41,yes,Probably not antisemitic,N/A,N/A,Written text,N/A,27
+151,Antisemitism Post Annotation,1940647356946698752,42,yes,Confident antisemitic,"1.0 Hatred towards Jews, 3.1.2 Mendacious or stereotypical allegations about Jews as such + Jewish power,  3.1.3 Blaming the Jews as a people for what a single person or group has done, 3.1.6 Accusing Jews of being more loyal to Israel, or to ‘Jewish priorities’, 3.1.9 Using classic antisemitic tropes (e.g., blood libel) to characterize Israel or Israelis",N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,41
+151,Antisemitism Post Annotation,1940201039145377938,43,yes,Probably antisemitic,"1.0 Hatred towards Jews, 3.1.1 Justifying harming of Jews in the name of a radical ideology, 3.1.2 Mendacious or stereotypical allegations about Jews as such + Jewish power, 3.1.10 Drawing comparisons between Israeli policy and that of the Nazis, 3.1.11 Holding Jews collectively responsible for actions of the state of Israel",N/A,Written text,no,42
+151,Antisemitism Post Annotation,1940574802160517610,44,yes,Probably not antisemitic,None or n/a,N/A,Written text,no,42
+151,Antisemitism Post Annotation,1757296820529840569,45,yes, Confident not antisemitic,None or n/a,N/A,Written text,yes,20
+151,Antisemitism Post Annotation,1935598041635115235,46,yes,Probably not antisemitic,"3.1.8 Applying double standards to Israel (e.g., expectations not required of other nations)",N/A,Written text,no,17
+151,Antisemitism Post Annotation,1760403914468278550,47,yes, Confident not antisemitic,None or n/a,N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,24
+151,Antisemitism Post Annotation,1762472263868096706,48,yes, Confident not antisemitic,None or n/a,N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,19
+151,Antisemitism Post Annotation,1772167549620207749,49,yes,Probably antisemitic,"3.1.7 Denying the Jewish people right to self-determination, e.g., ‘Israel is racist per se’, 3.1.8 Applying double standards to Israel (e.g., expectations not required of other nations), 3.1.9 Using classic antisemitic tropes (e.g., blood libel) to characterize Israel or Israelis",N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username, Link to antisemitic text or video",no,45
+151,Antisemitism Post Annotation,1936793737880805482,50,yes, Confident not antisemitic,None or n/a,N/A,None or n/a,no,31
+151,Antisemitism Post Annotation,1840341393652293886,51,yes, Confident not antisemitic,None or n/a,N/A,None or n/a,yes,26
+151,Antisemitism Post Annotation,1834989286640234765,52,yes,Probably not antisemitic,None or n/a,N/A,None or n/a,yes,17
+151,Antisemitism Post Annotation,1718915820821037296,53,yes, Confident not antisemitic,None or n/a,N/A,None or n/a,yes,42
+151,Antisemitism Post Annotation,1745002475004854380,54,yes, Confident not antisemitic,None or n/a,N/A,None or n/a,yes,17
+151,Antisemitism Post Annotation,1732352462160277851,55,yes, Confident not antisemitic,None or n/a,N/A,None or n/a,yes,16
+151,Antisemitism Post Annotation,1720353413630742648,56,yes, Confident not antisemitic,None or n/a,N/A,"None or n/a, Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video",no,20
+151,Antisemitism Post Annotation,1841177907755950170,57,yes, Confident not antisemitic,None or n/a,N/A,Written text,no,13
+151,Antisemitism Post Annotation,1840059552948969867,58,yes, Confident not antisemitic,None or n/a,N/A,None or n/a,yes,12
+151,Antisemitism Post Annotation,1840443244041113833,59,yes, Confident not antisemitic,None or n/a,N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,22
+151,Antisemitism Post Annotation,1931617173828522039,60,N/A, Confident not antisemitic,None or n/a,N/A,Written text,yes,15
+151,Antisemitism Post Annotation,1737029156758512089,61,yes, Confident not antisemitic,None or n/a,N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,15
+151,Antisemitism Post Annotation,1819477536490803448,62,yes, Confident not antisemitic,None or n/a,N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",yes,18
+151,Antisemitism Post Annotation,1731305712226115913,63,yes, Confident not antisemitic,None or n/a,N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,15
+151,Antisemitism Post Annotation,1718187210162262474,64,yes, Confident not antisemitic,None or n/a,N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",yes,17
+151,Antisemitism Post Annotation,1814685816729240012,65,yes, Confident not antisemitic,None or n/a,N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,13
+151,Antisemitism Post Annotation,1734231595907711232,66,yes, Confident not antisemitic,None or n/a,N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,13
+151,Antisemitism Post Annotation,1841049661919969616,67,yes, Confident not antisemitic,None or n/a,N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",yes,14
+151,Antisemitism Post Annotation,1731708331876561379,68,yes, Confident not antisemitic,None or n/a,N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",yes,16
+151,Antisemitism Post Annotation,1852791277915410927,69,yes, Confident not antisemitic,None or n/a,N/A,"Written text, Visuals / imagery / video, Post description, hashtag, or username",no,14
+151,Antisemitism Post Annotation,1940144985715945667,70,yes, Confident not antisemitic,None or n/a,N/A,"Written text, Post description, hashtag, or username",yes,21
+151,Antisemitism Post Annotation,1728731155678052850,71,yes, Confident not antisemitic,None or n/a,N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,23
+151,Antisemitism Post Annotation,1942543122648686748,72,yes, Confident not antisemitic,None or n/a,N/A,"Written text, Post description, hashtag, or username",yes,18
+151,Antisemitism Post Annotation,1763890130731794838,73,yes,Probably antisemitic," 3.1.3 Blaming the Jews as a people for what a single person or group has done, 3.1.6 Accusing Jews of being more loyal to Israel, or to ‘Jewish priorities’, 3.1.8 Applying double standards to Israel (e.g., expectations not required of other nations), 3.1.11 Holding Jews collectively responsible for actions of the state of Israel",N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",yes,38
+151,Antisemitism Post Annotation,1788910055238037741,74,yes, Confident not antisemitic,None or n/a,N/A,"Written text, Visuals / imagery / video, Post description, hashtag, or username",no,17
+151,Antisemitism Post Annotation,1719745919011213714,75,yes, Confident not antisemitic,None or n/a,N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,18
+151,Antisemitism Post Annotation,1733150618146001217,76,yes,Probably not antisemitic,"3.1.8 Applying double standards to Israel (e.g., expectations not required of other nations), 3.1.10 Drawing comparisons between Israeli policy and that of the Nazis, 3.1.11 Holding Jews collectively responsible for actions of the state of Israel",N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,27
+151,Antisemitism Post Annotation,1721271066163601637,77,yes, Confident not antisemitic,None or n/a,N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,14
+151,Antisemitism Post Annotation,1718927879893840133,78,yes, Confident not antisemitic,None or n/a,N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,12
+151,Antisemitism Post Annotation,1737611290309509595,79,yes, Confident not antisemitic,None or n/a,N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,13
+151,Antisemitism Post Annotation,1725966787185963380,80,yes, Confident not antisemitic,None or n/a,N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,17
+151,Antisemitism Post Annotation,1720452568076169224,81,yes, Confident not antisemitic,None or n/a,N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,13
+151,Antisemitism Post Annotation,1728155641032610234,82,yes, Confident not antisemitic,None or n/a,N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,17
+151,Antisemitism Post Annotation,1728117564717281615,83,yes, Confident not antisemitic,None or n/a,N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,13
+151,Antisemitism Post Annotation,1785727730241217020,84,yes, Confident not antisemitic,None or n/a,N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,10
+151,Antisemitism Post Annotation,1726182792457851353,85,yes, Confident not antisemitic,None or n/a,N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,16
+151,Antisemitism Post Annotation,1725499976812245435,86,yes, Confident not antisemitic,None or n/a,N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,19
+151,Antisemitism Post Annotation,1728553098065383581,87,yes, Confident not antisemitic,None or n/a,N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,16
+151,Antisemitism Post Annotation,1724000317665149121,88,yes, Confident not antisemitic,None or n/a,N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,18
+151,Antisemitism Post Annotation,1854856827831226524,89,yes, Confident not antisemitic,None or n/a,N/A,"Written text, Visuals / imagery / video, Post description, hashtag, or username",no,164
+151,Antisemitism Post Annotation,1728440537458339914,90,yes, Confident not antisemitic,None or n/a,N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",yes,18
+151,Antisemitism Post Annotation,1713658648411463833,91,yes, Confident not antisemitic,None or n/a,N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,15
+151,Antisemitism Post Annotation,1724009326514155725,92,yes, Confident not antisemitic,None or n/a,N/A,"Written text, Visuals / imagery / video, Post description, hashtag, or username",no,18
+151,Antisemitism Post Annotation,1723823289347235928,93,yes, Confident not antisemitic,None or n/a,N/A,"Written text, Visuals / imagery / video, Post description, hashtag, or username",no,12
+151,Antisemitism Post Annotation,1859027027371979180,94,yes,Probably not antisemitic,"3.1.7 Denying the Jewish people right to self-determination, e.g., ‘Israel is racist per se’, 3.1.10 Drawing comparisons between Israeli policy and that of the Nazis",N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,18
+151,Antisemitism Post Annotation,1723312344543957320,95,yes, Confident not antisemitic,None or n/a,N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,11
+151,Antisemitism Post Annotation,1764689768284086555,96,yes, Confident not antisemitic,None or n/a,N/A,"Written text, Visuals / imagery / video, Post description, hashtag, or username",no,37
+151,Antisemitism Post Annotation,1763491813627740202,97,yes, Confident not antisemitic,None or n/a,N/A,"Written text, Visuals / imagery / video, Post description, hashtag, or username",no,20
+151,Antisemitism Post Annotation,1724858389660832029,98,yes, Confident not antisemitic,None or n/a,N/A,"Written text, Visuals / imagery / video, Post description, hashtag, or username",no,13
+151,Antisemitism Post Annotation,1923805300743864574,99,yes,Probably not antisemitic,"3.1.8 Applying double standards to Israel (e.g., expectations not required of other nations), 3.1.10 Drawing comparisons between Israeli policy and that of the Nazis",N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,22
+151,Antisemitism Post Annotation,1731246892875464950,100,yes, Confident not antisemitic,None or n/a,N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video, Post description, hashtag, or username",no,23
+151,Antisemitism Post Annotation,1733417739841110124,101,yes, Confident not antisemitic,"None or n/a, 3.1.10 Drawing comparisons between Israeli policy and that of the Nazis",N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Visuals / imagery / video",N/A,42
+151,Antisemitism Post Annotation,1716764024623226921,102,yes, Confident not antisemitic,None or n/a,N/A,"Written text, Visuals / imagery / video",no,15
+151,Antisemitism Post Annotation,1743952171626832356,103,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1785021327209910719,104,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1799438426237981047,105,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1780900321943855333,106,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1721430296556339307,107,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1747027385050886467,108,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1922946709341999267,109,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1729943615944761429,110,yes, Confident not antisemitic,None or n/a,N/A,"Written text, Visuals / imagery / video",no,17
+151,Antisemitism Post Annotation,1712458867446305139,111,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1893295379594047805,112,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1898502944116384104,113,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1755434494025179410,114,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1787379764753322076,115,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1879919521970233365,116,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1578857579207196672,117,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1855026159458652530,118,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1934599841801453588,119,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1892333811251155426,120,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1898224265968718142,121,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1935015988728316276,122,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1837361042076176471,123,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1935173431407919521,124,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1934350007567777855,125,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1902919009885901211,126,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1936586058797363565,127,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1886908448006086930,128,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1938253795458249069,129,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1896363705660817424,130,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1933759243573715428,131,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1852404814916854045,132,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1855742490923651481,133,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1657533388700659712,134,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1814679316166549612,135,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1845528593499406750,136,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1651081010564710400,137,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1656357263735685120,138,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1656792666846429186,139,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1657701507251474433,140,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1676747407449812992,141,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1822768045292708270,142,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1833253100217634874,143,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1654639436385357824,144,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1692679545349181805,145,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1649355530543169536,146,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1676013817791381505,147,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1648855846896672768,148,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1834828807682883598,149,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1656794502965911552,150,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1645215165485568006,151,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1783734002249269754,152,yes, Confident not antisemitic,None or n/a,N/A,Written text,no,41
+151,Antisemitism Post Annotation,1840642781523402931,153,yes,Probably not antisemitic,None or n/a,N/A,"Written text, Visuals / imagery / video",no,61
+151,Antisemitism Post Annotation,1733089632261447785,154,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1677851015276802049,155,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1825730822579818903,156,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1809063976774386107,157,yes,Confident antisemitic,"1.0 Hatred towards Jews, 3.1.1 Justifying harming of Jews in the name of a radical ideology, 3.1.2 Mendacious or stereotypical allegations about Jews as such + Jewish power, 3.1.9 Using classic antisemitic tropes (e.g., blood libel) to characterize Israel or Israelis",N/A,"Written text, Visuals / imagery / video",no,80
+151,Antisemitism Post Annotation,1841172752780443746,158,yes,Probably not antisemitic,"None or n/a, 3.1.8 Applying double standards to Israel (e.g., expectations not required of other nations)",N/A,"Written text, Visuals / imagery / video",no,23
+151,Antisemitism Post Annotation,1860482502231532015,159,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1779632414689550454,160,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1744586842287038650,161,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1917939722065944900,162,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1859238263900291520,163,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1883993353630670944,164,yes,Confident antisemitic,"1.0 Hatred towards Jews, 3.1.1 Justifying harming of Jews in the name of a radical ideology, 3.1.2 Mendacious or stereotypical allegations about Jews as such + Jewish power,  3.1.3 Blaming the Jews as a people for what a single person or group has done, 3.1.4 Denying the fact, scope, mechanisms or intentionality of the Holocaust, 3.1.9 Using classic antisemitic tropes (e.g., blood libel) to characterize Israel or Israelis",N/A,"Written text, Visuals / imagery / video",no,61
+151,Antisemitism Post Annotation,1924901911620428257,165,yes,Confident antisemitic,"1.0 Hatred towards Jews, 3.1.1 Justifying harming of Jews in the name of a radical ideology, 3.1.2 Mendacious or stereotypical allegations about Jews as such + Jewish power,  3.1.3 Blaming the Jews as a people for what a single person or group has done, 3.1.11 Holding Jews collectively responsible for actions of the state of Israel",N/A,Written text,no,30
+151,Antisemitism Post Annotation,1871723972435525779,166,yes,I don’t know,None or n/a,N/A,"Written text, Visuals / imagery / video",yes,185
+151,Antisemitism Post Annotation,1937153849439187079,167,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1933888485922087153,168,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1909948078091629007,169,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1846547881567633495,170,yes,Confident antisemitic,"1.0 Hatred towards Jews, 3.1.2 Mendacious or stereotypical allegations about Jews as such + Jewish power",N/A,"Written text, Visuals / imagery / video",no,40
+151,Antisemitism Post Annotation,1808157075026927851,171,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1898352638325817655,172,yes,Confident antisemitic,"1.0 Hatred towards Jews, 3.1.1 Justifying harming of Jews in the name of a radical ideology, 3.1.2 Mendacious or stereotypical allegations about Jews as such + Jewish power,  3.1.3 Blaming the Jews as a people for what a single person or group has done",N/A,"Written text, Visuals / imagery / video",no,82
+151,Antisemitism Post Annotation,1897687550912807329,173,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1933906390164349042,174,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1880246477219590224,175,yes,Confident antisemitic,"1.0 Hatred towards Jews, 3.1.1 Justifying harming of Jews in the name of a radical ideology, 3.1.2 Mendacious or stereotypical allegations about Jews as such + Jewish power,  3.1.3 Blaming the Jews as a people for what a single person or group has done, 3.1.11 Holding Jews collectively responsible for actions of the state of Israel",N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript)",no,52
+151,Antisemitism Post Annotation,1890350132610076811,176,yes,Confident antisemitic,"1.0 Hatred towards Jews, 3.1.1 Justifying harming of Jews in the name of a radical ideology, 3.1.2 Mendacious or stereotypical allegations about Jews as such + Jewish power,  3.1.3 Blaming the Jews as a people for what a single person or group has done, 3.1.9 Using classic antisemitic tropes (e.g., blood libel) to characterize Israel or Israelis",N/A,"Written text, Visuals / imagery / video",no,51
+151,Antisemitism Post Annotation,1866016374096568520,177,yes,Confident antisemitic,"1.0 Hatred towards Jews, 3.1.1 Justifying harming of Jews in the name of a radical ideology, 3.1.2 Mendacious or stereotypical allegations about Jews as such + Jewish power,  3.1.3 Blaming the Jews as a people for what a single person or group has done, 3.1.9 Using classic antisemitic tropes (e.g., blood libel) to characterize Israel or Israelis",N/A,"Written text, Visuals / imagery / video",no,88
+151,Antisemitism Post Annotation,1926639102356570186,178,yes,Confident antisemitic,"1.0 Hatred towards Jews, 3.1.1 Justifying harming of Jews in the name of a radical ideology, 3.1.2 Mendacious or stereotypical allegations about Jews as such + Jewish power,  3.1.3 Blaming the Jews as a people for what a single person or group has done, 3.1.9 Using classic antisemitic tropes (e.g., blood libel) to characterize Israel or Israelis",N/A,"Written text, Visuals / imagery / video",no,488
+151,Antisemitism Post Annotation,1869397854919483824,179,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1082989822120218625,180,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1755659492631384548,181,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1756054879359877209,182,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1852260483081892222,183,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1773895541786575080,184,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1894746266338202065,185,yes,Probably antisemitic,"3.1.8 Applying double standards to Israel (e.g., expectations not required of other nations), 3.1.10 Drawing comparisons between Israeli policy and that of the Nazis",N/A,"Written text, Visuals / imagery / video",no,243
+151,Antisemitism Post Annotation,1927391903391109150,186,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1850930951511265746,187,yes,Probably antisemitic,"3.1.2 Mendacious or stereotypical allegations about Jews as such + Jewish power,  3.1.3 Blaming the Jews as a people for what a single person or group has done, 3.1.7 Denying the Jewish people right to self-determination, e.g., ‘Israel is racist per se’, 3.1.8 Applying double standards to Israel (e.g., expectations not required of other nations)",N/A,"Written text, Audio (e.g., speech, music, sound effects, automated transcript), Post description, hashtag, or username",no,39
+151,Antisemitism Post Annotation,1850122625294458979,188,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1927780665195401377,189,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1778943250000404715,190,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1744811788925821122,191,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1894023722568241166,192,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1879863248792752494,193,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1896938557224493142,194,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1845424542883221884,195,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1891117094978117983,196,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1889670492581404817,197,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1853383261579342052,198,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1934615173207134555,199,yes, Confident not antisemitic,None or n/a,N/A,"Written text, Visuals / imagery / video",yes,47
+151,Antisemitism Post Annotation,1849046275892662663,200,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1784581968170041852,201,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1830561337203651031,202,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1935321833798013209,203,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1831336007624802782,204,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1888931856420143611,205,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1861742693409337391,206,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1936019049659486577,207,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1863920261491233088,208,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1877390299359490463,209,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1920819131219148995,210,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1920837558453383360,211,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1848724839755899086,212,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1831649826561265973,213,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1821182744220852458,214,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1842630379695665323,215,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1919744371282313639,216,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1840405121227710642,217,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1881365535616610566,218,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1934234395835088949,219,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1821901168957624762,220,yes, Confident not antisemitic,None or n/a,N/A,"Written text, Visuals / imagery / video",yes,13
+151,Antisemitism Post Annotation,1868288838814122168,221,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1881389536355528830,222,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1721556195037831524,223,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1821639787499155493,224,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1907977542310748517,225,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1722408107941441565,226,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1816214080866148518,227,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1815070614450815464,228,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1721411704280817750,229,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1784208384595742940,230,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1847154932736315491,231,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1729000428183093664,232,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1796364039318360216,233,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1728112411830546731,234,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1867634182488567998,235,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1843414785301590398,236,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1948117542028931382,237,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1948095915358572870,238,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1948075219878568350,239,yes, Confident not antisemitic,None or n/a,N/A,"Written text, Visuals / imagery / video",yes,32
+151,Antisemitism Post Annotation,1948014822010069473,240,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1947990078883569749,241,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1947644212347826638,242,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1947605851457323347,243,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1947306346358944194,244,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1946918088986779730,245,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1946830197459693913,246,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1841185599585468576,247,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1679629313648279554,248,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1934401821537186047,249,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1835119797031649479,250,yes, Confident not antisemitic,None or n/a,N/A,"Written text, Visuals / imagery / video",yes,32
+151,Antisemitism Post Annotation,1943343833703452720,251,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1651661331215294486,252,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1795208738275500423,253,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1797353697145463018,254,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1636525330285449216,255,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1791942996608385054,256,yes, Confident not antisemitic,None or n/a,N/A,"Written text, Visuals / imagery / video",yes,29
+151,Antisemitism Post Annotation,1712523685658018072,257,yes,Confident antisemitic,"3.1.2 Mendacious or stereotypical allegations about Jews as such + Jewish power,  3.1.3 Blaming the Jews as a people for what a single person or group has done, 3.1.7 Denying the Jewish people right to self-determination, e.g., ‘Israel is racist per se’, 3.1.8 Applying double standards to Israel (e.g., expectations not required of other nations), 3.1.9 Using classic antisemitic tropes (e.g., blood libel) to characterize Israel or Israelis",N/A,Written text,no,117
+151,Antisemitism Post Annotation,1924612929405493273,258,yes,Confident antisemitic,"1.0 Hatred towards Jews, 3.1.2 Mendacious or stereotypical allegations about Jews as such + Jewish power, 3.1.11 Holding Jews collectively responsible for actions of the state of Israel",N/A,"Written text, Visuals / imagery / video",no,30
+151,Antisemitism Post Annotation,1732779057434022146,259,yes,Confident antisemitic,"3.1.2 Mendacious or stereotypical allegations about Jews as such + Jewish power,  3.1.3 Blaming the Jews as a people for what a single person or group has done, 3.1.9 Using classic antisemitic tropes (e.g., blood libel) to characterize Israel or Israelis",N/A,"Written text, Visuals / imagery / video",no,47
+151,Antisemitism Post Annotation,1745810141327319482,260,yes,Confident antisemitic,"3.1.2 Mendacious or stereotypical allegations about Jews as such + Jewish power,  3.1.3 Blaming the Jews as a people for what a single person or group has done, 3.1.9 Using classic antisemitic tropes (e.g., blood libel) to characterize Israel or Israelis, 3.1.11 Holding Jews collectively responsible for actions of the state of Israel",N/A,"Written text, Visuals / imagery / video",no,41
+151,Antisemitism Post Annotation,1829937483171102740,261,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1935795348444004490,262,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1735703329081061679,263,yes,Confident antisemitic,"3.1.2 Mendacious or stereotypical allegations about Jews as such + Jewish power, 3.1.6 Accusing Jews of being more loyal to Israel, or to ‘Jewish priorities’, 3.1.8 Applying double standards to Israel (e.g., expectations not required of other nations), 3.1.9 Using classic antisemitic tropes (e.g., blood libel) to characterize Israel or Israelis",N/A,"Written text, Visuals / imagery / video",no,31
+151,Antisemitism Post Annotation,1721971905824014531,264,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1732518028477124879,265,yes,Confident antisemitic,"1.0 Hatred towards Jews, 3.1.1 Justifying harming of Jews in the name of a radical ideology,  3.1.3 Blaming the Jews as a people for what a single person or group has done, 3.1.9 Using classic antisemitic tropes (e.g., blood libel) to characterize Israel or Israelis",N/A,"Written text, Visuals / imagery / video",no,40
+151,Antisemitism Post Annotation,1717966172736438366,266,yes,Confident antisemitic,"1.0 Hatred towards Jews, 3.1.1 Justifying harming of Jews in the name of a radical ideology, 3.1.2 Mendacious or stereotypical allegations about Jews as such + Jewish power,  3.1.3 Blaming the Jews as a people for what a single person or group has done, 3.1.6 Accusing Jews of being more loyal to Israel, or to ‘Jewish priorities’, 3.1.9 Using classic antisemitic tropes (e.g., blood libel) to characterize Israel or Israelis, 3.1.11 Holding Jews collectively responsible for actions of the state of Israel",N/A,"Written text, Visuals / imagery / video",no,108
+151,Antisemitism Post Annotation,1756367567122321479,267,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1794019232679628913,268,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1924542032883720456,269,yes,Confident antisemitic,"1.0 Hatred towards Jews, 3.1.1 Justifying harming of Jews in the name of a radical ideology, 3.1.2 Mendacious or stereotypical allegations about Jews as such + Jewish power,  3.1.3 Blaming the Jews as a people for what a single person or group has done, 3.1.7 Denying the Jewish people right to self-determination, e.g., ‘Israel is racist per se’, 3.1.8 Applying double standards to Israel (e.g., expectations not required of other nations), 3.1.11 Holding Jews collectively responsible for actions of the state of Israel",N/A,"Written text, Visuals / imagery / video",no,31
+151,Antisemitism Post Annotation,1743285197024493890,270,yes,Confident antisemitic,"1.0 Hatred towards Jews, 3.1.2 Mendacious or stereotypical allegations about Jews as such + Jewish power,  3.1.3 Blaming the Jews as a people for what a single person or group has done, 3.1.11 Holding Jews collectively responsible for actions of the state of Israel",N/A,"Written text, Post description, hashtag, or username",no,350
+151,Antisemitism Post Annotation,1740042867295588635,271,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1715610803951321558,272,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1717950739945758832,273,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1846529601498927375,274,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1723466556221362329,275,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1711887687282458959,276,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1711770443802083496,277,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1710757794737992041,278,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1720764439119405216,279,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1855208003626041808,280,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1936619031659970665,281,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1841171655860662467,282,yes,Probably antisemitic," 3.1.3 Blaming the Jews as a people for what a single person or group has done, 3.1.6 Accusing Jews of being more loyal to Israel, or to ‘Jewish priorities’, 3.1.7 Denying the Jewish people right to self-determination, e.g., ‘Israel is racist per se’, 3.1.8 Applying double standards to Israel (e.g., expectations not required of other nations)",N/A,"Written text, Visuals / imagery / video",no,30
+151,Antisemitism Post Annotation,1933397343136575513,283,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1732147641637634243,284,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1879657149930102817,285,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1711832197995381037,286,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1833112380043059594,287,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1887169355303006300,288,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1821206470806913351,289,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1714369097608159539,290,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1725853931102712185,291,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1715309972181925985,292,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1711678054487961828,293,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1720847969396646391,294,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1732151228199498044,295,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1854824396780609947,296,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1723773847269163501,297,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1718216112905572688,298,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1725904953951010977,299,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1644778812239147008,300,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1934005723018691022,301,yes,Confident antisemitic,"1.0 Hatred towards Jews, 3.1.1 Justifying harming of Jews in the name of a radical ideology, 3.1.9 Using classic antisemitic tropes (e.g., blood libel) to characterize Israel or Israelis, 3.1.11 Holding Jews collectively responsible for actions of the state of Israel",N/A,"Written text, Visuals / imagery / video",no,27
+151,Antisemitism Post Annotation,1712515709354520810,302,yes,Probably not antisemitic,None or n/a,N/A,"Written text, Visuals / imagery / video",no,15
+151,Antisemitism Post Annotation,1713234697772208625,303,yes,Probably not antisemitic,"None or n/a, 3.1.10 Drawing comparisons between Israeli policy and that of the Nazis",N/A,"Written text, Visuals / imagery / video",yes,18
+151,Antisemitism Post Annotation,1837288217491456488,304,yes,Probably antisemitic,"3.1.10 Drawing comparisons between Israeli policy and that of the Nazis, 3.1.11 Holding Jews collectively responsible for actions of the state of Israel",N/A,"Written text, Visuals / imagery / video",no,27
+151,Antisemitism Post Annotation,1717871637289161198,305,yes,Confident antisemitic,"1.0 Hatred towards Jews, 3.1.1 Justifying harming of Jews in the name of a radical ideology, 3.1.2 Mendacious or stereotypical allegations about Jews as such + Jewish power,  3.1.3 Blaming the Jews as a people for what a single person or group has done, 3.1.9 Using classic antisemitic tropes (e.g., blood libel) to characterize Israel or Israelis, 3.1.11 Holding Jews collectively responsible for actions of the state of Israel",N/A,"Written text, Visuals / imagery / video",no,54
+151,Antisemitism Post Annotation,1704834274690482602,306,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1668817012276043778,307,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1830518476303175731,308,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1712392665440891015,309,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1727452807073075661,310,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1823433345545441289,311,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1784241938893283521,312,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1711299003621487005,313,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1759002511397069175,314,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1759002946728071591,315,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1733596461865062896,316,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1734054921941537148,317,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1716587005516173732,318,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1801959657600160096,319,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+151,Antisemitism Post Annotation,1712016136437424459,320,N/A,N/A,N/A,N/A,N/A,N/A,N/A
